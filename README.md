@@ -1,6 +1,16 @@
 # Moneta 
 Moneta is a full stack MERN platform for patients at any stage of Alzheimer's/Dementia to keep their mind and brain stimulated. Brain teasers/memory/image and word association games have been scientifically proven to be useful throughout the lives of people afflicted with the disease. While additionally, music can play an important role.
 
+# Screenshots of primary pages after login
+Welcome screen:
+![](https://github.com/clarymt/Moneta/blob/master/client/public/images/uploads/homescreen.png)
+
+Selection of accompanied backgrounds and songs based on mood:
+![](https://github.com/clarymt/Moneta/blob/master/client/public/images/uploads/moodpage.png)
+
+Game page:
+![](https://github.com/clarymt/Moneta/blob/master/client/public/images/uploads/gamepage.png)
+
 ![](https://github.com/vin-cent321/Moneta/blob/master/client/src/components/layout/logofinal_2.jpg)
  <img src='https://github.com/vin-cent321/Moneta/blob/master/client/src/components/layout/Moneta-qr.png' height='200px' width='200px' />
 * [Moneta Wireframe](https://github.com/vin-cent321/Moneta/blob/master/client/src/components/layout/Wireframe.png)
